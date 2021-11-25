@@ -1,0 +1,36 @@
+body
+{
+background-color:lightcoral;
+color:white;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects
+{
+    color:thistle;
+    font-size: 20px;
+}
+
+#camera
+{
+    border: 2px solid thistle;
+    width: 350px;
+    height: 300px;
+}
+
+#result
+{
+    border: 2px solid pink;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color:thistle;
+}
